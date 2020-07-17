@@ -1,0 +1,39 @@
+#header-nav{
+	background: gray;
+	border: 0px;
+	border-radius: 0px;
+	
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid ;
+}
+
+.navbar-header button.navbar-toggle{
+	clear: both;
+	margin-top: 50px;
+}
+
+.navbar-brand h1{
+color: black;
+margin-top: 10px;
+
+}
+.navbar-brand{
+	margin-top: -30px;
+	padding-top: 25px;
+}
+
+#collapsable-nav li{
+	list-style: none;
+	text-align: center;
+	font-size: 32px;
+}
+
+.ancor{
+	background: green;
+	position: relative;
+	border: 2px solid black;
+	margin: 20px;
+	padding: 10px;
+}
